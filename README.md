@@ -12,5 +12,5 @@
 
 ## Пример
 
-![Пример приложения](скоро добавлю гифку)
+https://github.com/baysarov077/dom-todolist/assets/98719246/eac84168-dfe3-41fe-9d41-18e1b87f4fea
 
